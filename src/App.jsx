@@ -10,7 +10,7 @@ function App() {
   const [valor, setValor] = useState(LogicPhrase(phrases))
   const [numberImg, setNumberImg] = useState(LogicPhrase(imgs))
   const appStyle = {
-    backgroundImage: `url('/src/assets/fondo${numberImg}.jpg')`
+    backgroundImage: `url('/img/fondo${numberImg}.jpg')`
   }
   return (
     <div style={appStyle} className="App2">
