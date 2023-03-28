@@ -1,3 +1,4 @@
+<script type="module" src="/src/main.jsx"></script>
 export default function Frases({ valor }) {
     VanillaTilt.init(document.querySelector(".App__text"), {
         max: 25,
