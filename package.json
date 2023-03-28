@@ -1,7 +1,7 @@
 {
   "name": "entregable1",
   "private": true,
-  "homepage": "https://GasparU.github.io/frases", 
+  "homepage": "https://gasparu.github.io/frases", 
   "version": "0.0.0",
   "type": "module",
   "scripts": {
